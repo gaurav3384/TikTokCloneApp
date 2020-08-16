@@ -1,0 +1,13 @@
+npm i react-ticker 
+
+npm start  
+npm stop 
+npm install firebase
+
+
+npm install -g --force firebase-tools
+Set-ExecutionPolicy RemoteSigned
+firebase login
+firebase init
+npm run build 
+firebase deploy 
